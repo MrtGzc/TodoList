@@ -7,4 +7,4 @@ This is todo list project page. Using this todo list
 - delete todos
 - search for todos that you have saved
 
-![](TodoListProject\examplePhoto.png)
+![](https://github.com/MrtGzc/TodoList/blob/main/examplePhoto.png?raw=true)
